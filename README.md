@@ -2,8 +2,6 @@
 
 ## **Projeto - NotebookLM produzido para impulsionar estudo**
 
-Projeto com o objetivo de gerar um ebook de tecnologia, usando ferramentas de IA como acelerador, através de estratégias de engenharia de prompt.
-
 Projeto com o objetivo de criar um notebook na plataforma do Google: NotebookLM, com o intuito de aumentar o desempenho de estudos e conhecimentos adquirido acerca de um determinado conteúdo acadêmico.
 
 Neste caso em específico, os conteúdos para conclusão da disciplina de Aspectos Teóricos da Computação, que é constituída pelos seguintes assuntos:
